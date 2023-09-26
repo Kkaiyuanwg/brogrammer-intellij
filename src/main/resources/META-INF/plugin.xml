@@ -1,0 +1,22 @@
+<idea-plugin>
+  <id>com.kkaiyuanwg.brogrammer</id>
+  <name>Brogrammer</name>
+  <version>0.1</version>
+  <vendor email="kkaiyuanwg@gmail.com">kkaiyuanwg</vendor>
+
+  <description><![CDATA[
+  Brogrammer theme for IntelliJ IDEs
+  ]]></description>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+
+  </extensions>
+
+</idea-plugin>

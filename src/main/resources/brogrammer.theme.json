@@ -1,0 +1,12 @@
+{
+  "name": "Brogrammer",
+  "dark": true,
+  "author": "kkai",
+  "editorScheme": "/brogrammer.xml",
+  "ui": {
+    "*": {
+      "background": "#393939",
+      "foreground": "#7c7c7c"
+    }
+  }
+}
